@@ -16,6 +16,6 @@ Open another terminal window and run the following command. This will create 5 t
 ./vendor/bin/sail artisan migrate --seed
 ```
 
-## Use postman to talk the public to do API
+## Use postman to talk to the public todo API
 
-Import the postman collection from file todo_api.postman_collection.json in the root folder. It contains CRUD operations together will some basic request validation.
+Import the postman collection from file todo_api.postman_collection.json in the root folder. It contains CRUD operations together with some basic request validation.
